@@ -6,6 +6,7 @@ import os.path
 import platform
 import shutil
 import sys
+import numpy
 import webbrowser as wb
 from functools import partial
 
